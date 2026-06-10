@@ -1,16 +1,8 @@
-# practise_sqflite
+# SQFLite CRUD performed for a coontact app
 
-A new Flutter project.
 
-## Getting Started
+## Screenshots are as follows:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="280" height="500" alt="Screenshot_1781086538" src="https://github.com/user-attachments/assets/67086d17-1cd8-435b-98d8-b78ecb040eb4" />
+<img width="280" height="500" alt="Screenshot_1781086532" src="https://github.com/user-attachments/assets/0d2778a6-aff3-4a37-b729-96f058946dad" />
+<img width="280" height="500" alt="Screenshot_1781086522" src="https://github.com/user-attachments/assets/68a45f4a-3196-4663-9630-2c613ac2b039" />
